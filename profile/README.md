@@ -1,4 +1,3 @@
-# .github
 Welcome to the CAD Research Lab in Tongji University. Our research interests primarily cover 3D computer vision including stereo matching, Nerf, monocular depth estimation. We have a close working coorperation with [Dr. Wang](https://blackjack2015.github.io/) in Harbin Institute of Technology (Shenzhen). We are lucky to work with the lab headed by [Prof. Masatoshi Okutomi](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi-j.html) this year. Our lab take 2-3 master students each year. If you are interested in our lab, feel free to drop an email to zhichengwang@tongji.edu.cn.
 
 # News
