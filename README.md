@@ -1,0 +1,5 @@
+Welcome to the CAD Research Lab in Tongji University. Our research interests primarily cover 3D computer vision including stereo matching, Nerf, monocular depth estimation. We have a close working coorperation with [Dr. Wang](https://blackjack2015.github.io/) in Harbin Institute of Technology (Shenzhen). We are lucky to work with the lab headed by [Prof. Masatoshi Okutomi](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi-j.html) this year. Our lab take 2-3 master students each year. If you are interested in our lab, feel free to drop an email to zhichengwang@tongji.edu.cn.
+
+# News
+- One paper **Digging Into Normal Incorporated Stereo Matching** has been accepted by ACMMM 2022. Codes will be released soon.
+- One paper **EDNet:Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual** has been accepted by CVPR 2021. Codes will be released soon. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_EDNet_Efficient_Disparity_Estimation_With_Cost_Volume_Combination_and_Attention-Based_CVPR_2021_paper.pdf)]
